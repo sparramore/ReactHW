@@ -5,6 +5,7 @@ class Portrait extends Component  {
     constructor(props)
     {
       super(props)
+      console.log(this.props.name);
       this.state = {
     };
     }

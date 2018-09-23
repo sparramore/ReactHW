@@ -7,46 +7,46 @@
     {
         "charname": "Chris",
         "charid": 1,
-        "imagelocation": "/images/Chris.png"
+        "imagelocation": "images/Chris.png"
     },
     {
         "charname": "Tom",
         "charid": 2,
-        "imagelocation": "/images/Tom.png"
+        "imagelocation": "images/Tom.png"
     },
     {
         "charname": "Ron",
         "charid": 3,
-        "imagelocation": "/images/Ron.png"
+        "imagelocation": "images/Ron.png"
     },
     {
         "charname": "Leslie",
         "charid": 4,
-        "imagelocation": "/images/Leslie.png"
+        "imagelocation": "images/Leslie.png"
     },
     {
         "charname": "Gary",
         "charid": 5,
-        "imagelocation": "/images/Gary.png"
+        "imagelocation": "images/Gary.png"
     },
     {
         "charname": "Donna",
         "charid": 6,
-        "imagelocation": "/images/Donna.png"
+        "imagelocation": "images/Donna.png"
     },
     {
         "charname": "Andy",
         "charid": 7,
-        "imagelocation": "/images/Andy.png"
+        "imagelocation": "images/Andy.png"
     },
     {
         "charname": "April",
         "charid": 8,
-        "imagelocation": "/images/April.png"
+        "imagelocation": "images/April.png"
     },
     {
         "charname": "Anne",
         "charid": 9,
-        "imagelocation": "/images/Anne.png"
+        "imagelocation": "images/Anne.png"
     }
 ]
